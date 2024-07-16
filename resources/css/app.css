@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@layer components {
+  /* Custom component styles can be added here */
+  .btn-primary {
+      @apply py-1.5 px-3 text-center bg-blue-700 rounded-md text-white;
+  }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
