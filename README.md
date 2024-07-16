@@ -6,8 +6,8 @@ Project Setup/Installation Instructions
 
 Dependencies:
 
-    PHP 8.2.12
-    Laravel 11
+    PHP 8.0.12
+    Laravel 9
     MySQL
     Composer
     Node.js and npm
